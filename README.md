@@ -22,3 +22,5 @@ Read LICENSE on the [github](https://github.com/tushortz/vscode-Java-Snippets) r
 ## Acknowledgements
 
 I'd first like to say a very big thank you to God my creator. Without him, this wouldn't be possible.
+
+Special thanks to [Jhighar Mistry](https://github.com/Jhighar) for his contribution
