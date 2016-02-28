@@ -1,1 +1,28 @@
-see a sample repository on my github and edit as necessary
+{
+	"name": "java-snippets",
+	"displayName": "Java Snippets",
+	"description": "Java Snippets provides suggestions for various methods, classes, variables etc in Java",
+	"version": "0.0.1",
+	"publisher": "tushortz",
+	"icon": "icon.png",
+	"homepage": "https://github.com/tushortz/vscode-Java-Snippets",
+	"engines": {
+		"vscode": "^0.10.6"
+	},
+	"keywords":["java", "completion", "snippets"],
+	"categories": [
+		"Snippets"
+	],
+	"repository": {
+        "type": "git",
+        "url": "https://github.com/tushortz/vscode-Java-Snippets.git"
+    },
+	"contributes": {
+		"snippets": [
+			{
+				"language": "java",
+				"path": "./snippets/java_complete.json"
+			}
+		]
+	}
+}
